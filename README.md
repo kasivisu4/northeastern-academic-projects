@@ -1,32 +1,33 @@
-# D3 Gallery : The Gallery of Data Driven Documents
-
-## Demo :
-
-https://kasivisu4.github.io/d3-gallery/
+# Expernetial Project
 
 ## Project Description :
 
-In this project, the user can search the d3 graph by task, find all the graphs that are feasible to his task and can adapt it. Apart, User can also add his own d3 graph to showcase to other viewers...
+This project is an experiential project in collaboration with the Cordiance Company. The goal of this project is to get the closest possible UNSPSC code match for the Avalara Tax description. To begin this project, we were provided with two data files: UNSPSC and Avalara. 
 
-Also, Used the Minimongo IndexDB to store the data in the Browser Storage.
+UNSPSC file contains code to be matched and it is divided into 4 levels: 
 
-## Documentation :
+- Commodity level 
 
-Design / Business Requirements : [d3-gallery-design](https://github.com/kasivisu4/d3-gallery/blob/main/Documents/Design/d3-gallery-design.pdf)
+- Class level 
 
-JSDoc : [jsdoc](https://github.com/kasivisu4/d3-gallery/tree/main/Documents/JsDoc)
+- Family level 
+
+- Segment level 
+
+Avalara file contains Avalara Tax System code, its description and additional information related to the same. 
+
 
 ## Contributors :
 
+Akhila Sulgante 
+
 Kasi Viswanath ![![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
+
+Shital Waters
+
 
 ## Run Command :
 
-```
-npm start
-http://localhost:3000/d3-gallery
-```
 
----
 
 © 2022 MIT
