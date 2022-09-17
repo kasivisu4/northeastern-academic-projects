@@ -10,3 +10,6 @@
 [submodule "programmingDesignParadigms/PDP_Homework_1"]
 	path = programmingDesignParadigms/PDP_Homework_1
 	url = https://github.com/kasivisu4/PDP_Homework_1.git
+[submodule "algorithms/cordiance-experential-project"]
+	path = algorithms/cordiance-experential-project
+	url = https://github.com/kasivisu4/cordiance-experential-project
