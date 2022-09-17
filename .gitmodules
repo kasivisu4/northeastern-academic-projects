@@ -13,3 +13,6 @@
 [submodule "algorithms/cordiance-experential-project"]
 	path = algorithms/cordiance-experential-project
 	url = https://github.com/kasivisu4/cordiance-experential-project
+[submodule "naturalLanguageProccessing/hate-speech-detection"]
+	path = naturalLanguageProccessing/hate-speech-detection
+	url = https://github.com/kasivisu4/hate-speech-detection
