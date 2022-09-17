@@ -1,0 +1,12 @@
+[submodule "programmingDesignParadigms/homepage_creator"]
+	path = programmingDesignParadigms/homepage_creator
+	url = https://github.com/kasivisu4/homepage_creator.git
+[submodule "programmingDesignParadigms/pdp_homework_3_fp"]
+	path = programmingDesignParadigms/pdp_homework_3_fp
+	url = https://github.com/kasivisu4/pdp_homework_3_fp.git
+[submodule "programmingDesignParadigms/d3-gallery"]
+	path = programmingDesignParadigms/d3-gallery
+	url = https://github.com/kasivisu4/d3-gallery.git
+[submodule "programmingDesignParadigms/PDP_Homework_1"]
+	path = programmingDesignParadigms/PDP_Homework_1
+	url = https://github.com/kasivisu4/PDP_Homework_1.git
