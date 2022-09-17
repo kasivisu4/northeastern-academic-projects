@@ -16,3 +16,6 @@
 [submodule "naturalLanguageProccessing/hate-speech-detection"]
 	path = naturalLanguageProccessing/hate-speech-detection
 	url = https://github.com/kasivisu4/hate-speech-detection
+[submodule "machine-learning-CS6140"]
+	path = machine-learning-CS6140
+	url = https://github.com/kasivisu4/machine-learning-CS6140.git
